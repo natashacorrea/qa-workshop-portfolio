@@ -1,5 +1,10 @@
 # qa-workshop-portfolio
 
-**Alumna:** Natasha Correa
+Portafolio individual del workshop “Ingeniero de Pruebas en el Desarrollo Moderno”.
 
-Bienvenido/a a mi repositorio del curso de QA - Ingeniero de Pruebas. En este espacio iré documentando y alojando las prácticas, casos de prueba y proyectos de automatización desarrollados durante el taller.
+**Autor:** Natasha Correa
+
+Este repositorio contendrá los entregables desarrollados durante el workshop.
+
+## Estado actual
+Repositorio conectado y listo para comenzar el trabajo del portafolio.
