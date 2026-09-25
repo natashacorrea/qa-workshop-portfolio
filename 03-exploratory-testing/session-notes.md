@@ -64,7 +64,7 @@ Natasha Correa
 
 ## DEFECTOS (BUGS) 
 
-- BUG-01: Bloqueo de producto en la sesión tras eliminación por cantidad inválida (0 o negativa)
+### BUG-01: Bloqueo de producto en la sesión tras eliminación por cantidad inválida (0 o negativa)
 
 Pasos para reproducir:
 
