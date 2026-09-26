@@ -18,7 +18,7 @@ Gestión de mascotas (pet).
 | DELETE | `/pet/{petId}` | Eliminar del registro una mascota existente. |
 
 ## Justificación
-Se seleccionaron las cuatro operaciones fundamentales del ciclo de vida (CRUD) del recurso `/pet`. Al ser PetStore una plataforma cuyo modelo de negocio se basa en la comercialización de animales, y más, la integridad y persistencia de estos datos es crítica. Si la API permite crear registros corruptos, no refleja actualizaciones o no elimina registros obsoletos, afecta directamente el inventario y la venta en los canales digitales.
+Se seleccionaron las cuatro operaciones fundamentales del ciclo de vida (CRUD) del recurso `pet`. Al ser PetStore una plataforma cuyo modelo de negocio se basa en la comercialización de animales, y más, la integridad y persistencia de estos datos es crítica. Si la API permite crear registros corruptos, no refleja actualizaciones o no elimina registros obsoletos, afecta directamente el inventario y la venta en los canales digitales.
 
 ## Condiciones de prueba identificadas
 1. **Creación válida de entidad:** Creación exitosa enviando un payload JSON completo y bien formado (Código 200).
